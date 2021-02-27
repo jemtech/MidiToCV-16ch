@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model LP2954IT_NOPB
+#/415069/352110/2.47/3/3/Transistor
+DEF LP2954IT_NOPB Q 0 30 Y Y 1 F N
+F0 "Q" 850 300 50 H V L CNN
+F1 "LP2954IT_NOPB" 850 200 50 H V L CNN
+F2 "TO254P470X1028X1955-3P" 850 100 50 H I L CNN
+F3 "http://www.ti.com/lit/gpn/lp2954" 850 0 50 H I L CNN
+F4 "Texas Instruments LP2954IT/NOPB, LDO Voltage Regulator, 0.25A, 5 V +/-1.2%, -20  30 Vin, 3-Pin TO-220" 850 -100 50 H I L CNN "Description"
+F5 "4.7" 850 -200 50 H I L CNN "Height"
+F6 "926-LP2954IT/NOPB" 850 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LP2954IT-NOPB?qs=7lkVKPoqpbZMm7lHByDLtQ%3D%3D" 850 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Texas Instruments" 850 -500 50 H I L CNN "Manufacturer_Name"
+F9 "LP2954IT/NOPB" 850 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X IN 1 0 0 200 R 50 50 0 0 P
+X GROUND 2 0 -100 200 R 50 50 0 0 P
+X OUT 3 0 -200 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

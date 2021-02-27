@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LP2954IT_NOPB
+D Texas Instruments LP2954IT/NOPB, LDO Voltage Regulator, 0.25A, 5 V +/-1.2%, -20  30 Vin, 3-Pin TO-220
+K
+F http://www.ti.com/lit/gpn/lp2954
+$ENDCMP
+#
+#End Doc Library

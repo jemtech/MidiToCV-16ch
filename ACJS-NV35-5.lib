@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# ACJS-NV35-5
+#
+DEF ACJS-NV35-5 J 0 30 Y Y 1 F N
+F0 "J" 650 500 50 H V L CNN
+F1 "ACJS-NV35-5" 650 400 50 H V L CNN
+F2 "ACJS-NV35-XX" 650 300 50 H I L CNN
+F3 "" 650 200 50 H I L CNN
+F4 "3.5mm jack socket, vert. PCB Amphenol AC Series, 3.5mm PCB Mount Jack Socket, 10A" 650 100 50 H I L CNN "Description"
+F5 "Amphenol" 650 -300 50 H I L CNN "Manufacturer_Name"
+F6 "ACJS-NV35-5" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 300 600 300 600 -300 200 -300 200 300 N
+X 1_GND 1 300 500 200 D 50 50 0 0 P
+X 2_tip_s 2 500 -500 200 U 50 50 0 0 P
+X 3_Tip 3 500 500 200 D 50 50 0 0 P
+X 4_ring 4 400 500 200 D 50 50 0 0 P
+X 5_ring_s 5 400 -500 200 U 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library

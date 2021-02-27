@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name LM324D)(type Legacy)(uri "C:/Users/Jan-Erik Matthies/Downloads/LIB_LM324D/LM324D/KiCad/LM324D.lib")(options "")(descr ""))
+  (lib (name 67997-216)(type Legacy)(uri ${KIPRJMOD}/67997-216.lib)(options "")(descr ""))
+  (lib (name MCU_Module_JEM)(type Legacy)(uri ${KIPRJMOD}/MCU_Module_JEM.lib)(options "")(descr ""))
+  (lib (name LP2954IT_NOPB)(type Legacy)(uri ${KIPRJMOD}/LP2954IT_NOPB.lib)(options "")(descr ""))
+  (lib (name ACJS-NV35-5)(type Legacy)(uri ${KIPRJMOD}/ACJS-NV35-5.lib)(options "")(descr ""))
+  (lib (name 6N138S)(type Legacy)(uri ${KIPRJMOD}/6N138S.lib)(options "")(descr ""))
+)
